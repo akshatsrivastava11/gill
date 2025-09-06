@@ -84,5 +84,8 @@
       "name": "Nick Frostbutter",
       "url": "https://github.com/nickfrosty"
     }
-  ]
+  ],
+  "dependencies": {
+    "esrun": "^3.2.26"
+  }
 }
